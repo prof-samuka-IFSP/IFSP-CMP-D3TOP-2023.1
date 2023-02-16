@@ -9,4 +9,4 @@ Each directory has a `base_codes` subdirectory with the base codes for the initi
 
 
 ### Classes/Topics
-1. [XXXXXX](#)
+1. [Basic concepts about Strings, Files, and Regular Expression](./basics)
