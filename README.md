@@ -10,3 +10,5 @@ Each directory has a `base_codes` subdirectory with the base codes for the initi
 
 ### Classes/Topics
 1. [Basic concepts about Strings, Files, and Regular Expression](./basics)
+2. [Web Scrapping](./web-scrapping)
+3. [Text Preprocessing](./preprocessing)
